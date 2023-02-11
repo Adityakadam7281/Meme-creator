@@ -1,0 +1,41 @@
+.meme-generator {
+    margin: 20px auto;
+    width: 400px;
+    font-family: sans-serif;
+  }
+  
+  .meme-generator label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .meme-generator input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    background-color: rgb(227, 215, 201);
+    
+  }
+  
+  #meme {
+    width: 100%;
+  }
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  body{
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    background-image: url(images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
