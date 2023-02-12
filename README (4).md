@@ -13,5 +13,17 @@ The creartor only has to specify the image he desires to use in the meme and wri
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
+![Screenshot (34)](https://user-images.githubusercontent.com/89440646/218324180-3b6d6298-0287-4ea0-9635-873547de1b47.png)
+
+
+<h2>selecting the image </h2>
+
+
+![Screenshot (35)](https://user-images.githubusercontent.com/89440646/218324246-0ef549cf-fe2f-4a45-a596-dba211e6e252.png)
+
+final meme created:
+
+
+![Screenshot (36)](https://user-images.githubusercontent.com/89440646/218324291-b5e1962a-c9d4-45f0-b641-81d47e5b78f3.png)
